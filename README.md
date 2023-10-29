@@ -1,4 +1,6 @@
-## Simple application for iOS and Android
+Original source from https://github.com/SebastianAigner/my-bird-app
+
+## Simple application for iOS and Android [Learning purpose]
 1. Built using  architecture in KMM [MOKO-MVVM](https://github.com/icerockdev/moko-mvvm)
 2. Able to load images using KMM [Kamel](https://github.com/Kamel-Media/Kamel)
 3. Able to serialize network response by using KMM [KTOR Serialization Client](https://ktor.io/docs/serialization-client.html)
@@ -208,5 +210,5 @@ To configure advanced settings, use Xcode. After opening the project in Android 
 open the `iosApp/iosApp.xcworkspace` file in Xcode and make changes there.
 
 
-Copywrites from original 
+Copywrites from original Jet
 
